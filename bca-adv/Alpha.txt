@@ -1,0 +1,6 @@
+
+
+ Unlike more traditional methods of developing software, DevOps bridges the gap between development and operations teams—something that is often missing and can heavily impede the process of software delivery.
+
+
+Providing a comprehensive framework to develop and release software, DevOps connects development and operations teams—a gap that can create challenges and inefficiencies in software delivery.
